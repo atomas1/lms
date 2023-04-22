@@ -1,5 +1,5 @@
 venv
-**/* pyc
+**/*.pyc
 .idea
 .vscode
-db.sqllite3
+db.sqlite3
