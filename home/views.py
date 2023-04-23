@@ -17,3 +17,5 @@ def contact(request):
     return render(request, 'home/contact.html', context={
         'form': form
     })
+
+
