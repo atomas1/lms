@@ -3,3 +3,7 @@ venv
 .idea
 .vscode
 db.sqlite3
+
+media/courses
+media/files
+media/images
